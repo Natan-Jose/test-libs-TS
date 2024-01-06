@@ -1,0 +1,22 @@
+npm init -y
+
+npm install typescript -D
+
+npx tsx --init
+
+npm i tsx -D
+
+// npm run start:dev
+// npm run start
+
+npm i tsup -D
+
+//npm run build
+
+node dist/server.js
+
+npm i vitest -D
+
+//npm run test
+
+npm i zod -D
